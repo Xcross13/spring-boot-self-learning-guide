@@ -1,5 +1,11 @@
 # Flyway Database Migrations
 
+## Table of Contents
+- [Create Flyway Migration Scripts](#create-flyway-migration-scripts)
+- [Customizing Flyway Configuration](#customizing-flyway-configuration)
+- [Java based Flyway Migrations](#java-based-flyway-migrations)
+- [Assignment](#assignment)
+
 In the JdbcClient section, we have seen how to initialize the database using **schema.sql** and **data.sql** scripts.
 This may be useful for demos and quick prototypes, but for real-world applications we should use a database migration tool.
 

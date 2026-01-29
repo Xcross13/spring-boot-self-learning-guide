@@ -1,5 +1,13 @@
 # Spring JdbcClient
 
+## Table of Contents
+- [Overview](#overview)
+- [Working with H2 Database](#working-with-h2-database)
+- [Database Initialization](#database-initialization)
+- [Using Spring JdbcClient](#using-spring-jdbcclient)
+- [Adding PostgreSQL Database Support](#adding-postgresql-database-support)
+- [Assignment](#assignment)
+
 ## Overview
 
 Spring's JDBC support simplifies working with SQL databases by eliminating boilerplate code commonly required with traditional JDBC. 

@@ -1,5 +1,15 @@
 # Testing Spring Boot Applications
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Spring Boot Testing Support](#spring-boot-testing-support)
+- [Unit Testing](#unit-testing)
+- [Slice Testing](#slice-testing)
+- [Integration Testing](#integration-testing)
+- [Testing Secured REST API Endpoints](#testing-secured-rest-api-endpoints)
+- [Best Practices](#best-practices)
+- [Assignment](#assignment)
+
 ## Introduction
 
 Testing is crucial for ensuring the reliability and maintainability of Spring Boot applications. 

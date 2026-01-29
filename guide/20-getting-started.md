@@ -1,5 +1,11 @@
 # Getting Started
 
+## Table of Contents
+- [Prerequisites](#prerequisites)
+- [Running a Postgres Database](#running-a-postgres-database)
+- [Creating a Spring Boot Project](#creating-a-spring-boot-project)
+
+## Prerequisites
 To follow along with this guide, you will need to install the following:
 
 - JDK 21 or later (prefer JDK 25)

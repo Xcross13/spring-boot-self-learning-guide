@@ -1,5 +1,12 @@
 # Docker Compose Deployment
 
+## Table of Contents
+- [Introduction](#introduction)
+- [Dockerizing a Spring Boot Application](#dockerizing-a-spring-boot-application)
+- [Using Paketo Buildpacks](#using-paketo-buildpacks)
+- [Deploying with Docker Compose](#deploying-with-docker-compose)
+- [Assignments](#assignments)
+
 ## Introduction
 
 Docker enables you to package your Spring Boot application with all its dependencies into a standardized container 

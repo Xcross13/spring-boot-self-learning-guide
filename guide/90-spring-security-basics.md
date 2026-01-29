@@ -1,5 +1,14 @@
 # Spring Security Basics
 
+## Table of Contents
+- [Web Application Security Overview](#web-application-security-overview)
+- [Java Web Application Security](#java-web-application-security)
+- [Spring Security Architecture](#spring-security-architecture)
+- [Spring Security Key Components](#spring-security-key-components)
+- [Spring Security in Web Applications](#spring-security-in-web-applications)
+- [Method-Level Security](#method-level-security)
+- [Assignments](#assignments)
+
 ## Web Application Security Overview
 
 Security is a critical aspect of web applications. You need to protect your resources from unauthorized access 

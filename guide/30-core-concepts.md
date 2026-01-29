@@ -1,5 +1,9 @@
 # Spring Boot Core Concepts
 
+## Table of Contents
+- [Bean Configuration Examples](#bean-configuration-examples)
+- [Spring Component Scan](#spring-component-scan)
+
 - A Spring bean is a Java object that is managed by the Spring IoC container.
 - The Spring IoC container is responsible for creating, configuring, and managing the lifecycle of Spring beans.
 - You can use the generic `@Component` annotation to mark a class as a Spring bean.

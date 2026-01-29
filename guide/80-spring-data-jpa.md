@@ -1,5 +1,17 @@
 # Spring Data JPA
 
+## Table of Contents
+- [Main Features of Spring Data JPA](#main-features-of-spring-data-jpa)
+- [Setup](#setup)
+- [Creating the Entity](#creating-the-entity)
+- [CRUD Operations with Spring Data JPA](#crud-operations-with-spring-data-jpa)
+- [Sorting and Pagination](#sorting-and-pagination)
+- [Custom Finder Methods](#custom-finder-methods)
+- [Spring Data JPA Projections](#spring-data-jpa-projections)
+- [Spring Data JPA Auditing](#spring-data-jpa-auditing)
+- [Summary](#summary)
+- [Assignment](#assignment)
+
 **Spring Data JPA** is a part of the Spring Data family that simplifies data access using the Java Persistence API (JPA). 
 It reduces boilerplate code by providing repository abstractions and eliminates the need to write repetitive CRUD operations manually.
 

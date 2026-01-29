@@ -1,5 +1,17 @@
 # Spring MVC REST APIs
 
+## Table of Contents
+- [What is REST?](#what-is-rest)
+- [Importance of HTTP Methods, RESTful URLs, and Status Codes](#importance-of-http-methods-restful-urls-and-status-codes)
+- [REST API Examples: Blog Application](#rest-api-examples-blog-application)
+- [Writing HTTP Request Handlers with Spring MVC](#writing-http-request-handlers-with-spring-mvc)
+- [Mapping HTTP Methods](#mapping-http-methods)
+- [Spring MVC Annotations](#spring-mvc-annotations)
+- [Using ResponseEntity](#using-responseentity)
+- [Validation](#validation)
+- [Error Handling](#error-handling)
+- [Assignment](#assignment)
+
 ## What is REST?
 
 REST (Representational State Transfer) is an architectural style for designing networked applications. 

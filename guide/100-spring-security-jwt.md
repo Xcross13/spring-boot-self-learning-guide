@@ -1,5 +1,19 @@
 # Spring Security JWT-based Authentication
 
+## Table of Contents
+- [Web Application Security vs API Security](#web-application-security-vs-api-security)
+- [How JWT-Based Authentication Works](#how-jwt-based-authentication-works)
+- [JWT Structure and Components](#jwt-structure-and-components)
+- [JWT Authentication in Spring Security](#jwt-authentication-in-spring-security)
+- [Generating RSA Keys with OpenSSL](#generating-rsa-keys-with-openssl)
+- [OAuth2 Resource Server Configuration](#oauth2-resource-server-configuration)
+- [Implementing JWT Token Provider](#implementing-jwt-token-provider)
+- [Configuring Security Filters and CORS](#configuring-security-filters-and-cors)
+- [Implementing Login Endpoint](#implementing-login-endpoint)
+- [Retrieving Current User from JWT](#retrieving-current-user-from-jwt)
+- [Best Practices and Security Considerations](#best-practices-and-security-considerations)
+- [Assignments](#assignments)
+
 ## Web Application Security vs API Security
 
 Understanding the difference between traditional web application security and 
