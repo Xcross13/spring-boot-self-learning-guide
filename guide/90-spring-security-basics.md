@@ -2206,4 +2206,4 @@ public class SecurityExceptionHandler {
 - Password validation working
 - Password reset functionality
 
-[Home](../README.md) | [← Previous: Spring Data JPA](spring-data-jpa.md) | [Next: Spring Security JWT →](spring-security-jwt.md)
+[Home](../README.md) | [← Previous: Spring Data JPA](80-spring-data-jpa.md) | [Next: Spring Security JWT →](100-spring-security-jwt.md)

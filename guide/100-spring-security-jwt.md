@@ -1423,4 +1423,4 @@ private String privateKeyPath;
 - JWT security applied to jblogger endpoints
 - Access to protected endpoints requires valid JWT
 
-[Home](../README.md) | [← Previous: Spring Security Basics](spring-security-basics.md) | [Next: Testing →](testing.md)
+[Home](../README.md) | [← Previous: Spring Security Basics](90-spring-security-basics.md) | [Next: Testing →](110-testing.md)

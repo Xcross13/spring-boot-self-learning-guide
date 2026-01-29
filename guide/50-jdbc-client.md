@@ -280,4 +280,4 @@ Spring Boot will automatically configure DataSource using the provided propertie
 - Update **PostRepository** to use **JdbcClient** and persist data in the database instead of HashMap.
 
 ---
-[Home](../README.md) | [← Previous: Spring MVC REST APIs](spring-mvc-rest-apis.md) | [Next: Database Transaction Management →](db-transaction-management.md)
+[Home](../README.md) | [← Previous: Spring MVC REST APIs](40-spring-mvc-rest-apis.md) | [Next: Database Transaction Management →](60-db-transaction-management.md)

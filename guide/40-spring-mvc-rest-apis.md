@@ -545,4 +545,4 @@ class PostRepository {
 ```
 
 ---
-[Home](../README.md) | [← Previous: Core Concepts](core-concepts.md) | [Next: Spring JdbcClient →](jdbc-client.md)
+[Home](../README.md) | [← Previous: Core Concepts](30-core-concepts.md) | [Next: Spring JdbcClient →](50-jdbc-client.md)

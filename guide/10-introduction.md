@@ -107,4 +107,4 @@ Though it is a very simple REST API, it covers most of the Spring Boot features 
 - `DELETE /api/comments/{id}`: Delete a comment by its ID.
 
 ---
-[Home](../README.md) | [Next: Getting Started →](getting-started.md)
+[Home](../README.md) | [Next: Getting Started →](20-getting-started.md)

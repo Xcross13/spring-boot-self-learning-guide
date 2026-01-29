@@ -718,4 +718,4 @@ With Spring Data JPA, you can focus on business logic instead of writing repetit
 * Add pagination to the find all bookmarks API endpoint
 
 ---
-[Home](../README.md) | [← Previous: Flyway Database Migrations](flyway-database-migrations.md) | [Next: Spring Security Basics →](spring-security-basics.md)
+[Home](../README.md) | [← Previous: Flyway Database Migrations](70-flyway-database-migrations.md) | [Next: Spring Security Basics →](90-spring-security-basics.md)

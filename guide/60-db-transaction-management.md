@@ -140,4 +140,4 @@ class UserService {
   Verify that the post is not inserted in the database if the RuntimeException is thrown.
 
 ---
-[Home](../README.md) | [← Previous: Spring JdbcClient](jdbc-client.md) | [Next: Flyway Database Migrations →](flyway-database-migrations.md)
+[Home](../README.md) | [← Previous: Spring JdbcClient](50-jdbc-client.md) | [Next: Flyway Database Migrations →](70-flyway-database-migrations.md)

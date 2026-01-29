@@ -53,4 +53,4 @@ Dependencies: Web
 Generate the project, unzip and import it into IntelliJ IDEA.
 
 ---
-[Home](../README.md) | [← Previous: Introduction](introduction.md) | [Next: Core Concepts →](core-concepts.md)
+[Home](../README.md) | [← Previous: Introduction](10-introduction.md) | [Next: Core Concepts →](30-core-concepts.md)

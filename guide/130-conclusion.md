@@ -62,4 +62,4 @@ Happy coding, and best of luck with your Spring Boot journey!
 - [SivaLabs Spring Boot Tutorials](https://sivalabs.in/spring-boot-tutorials)
 - [SivaLabs YouTube Channel](https://www.youtube.com/sivalabs)
 
-[Home](../README.md) | [← Previous: Docker Compose Deployment](docker-compose-deployment.md)
+[Home](../README.md) | [← Previous: Docker Compose Deployment](120-docker-compose-deployment.md)

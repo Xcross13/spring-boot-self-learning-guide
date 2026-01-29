@@ -111,4 +111,4 @@ So, all the components from the `com.example.app` package and its sub-packages w
 Otherwise, Spring will not be able to find them by default.
 
 ---
-[Home](../README.md) | [← Previous: Getting Started](getting-started.md) | [Next: Spring MVC REST APIs →](spring-mvc-rest-apis.md)
+[Home](../README.md) | [← Previous: Getting Started](20-getting-started.md) | [Next: Spring MVC REST APIs →](40-spring-mvc-rest-apis.md)

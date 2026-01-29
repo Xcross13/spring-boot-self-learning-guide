@@ -152,4 +152,4 @@ such as **JdbcClient**, **Spring Data Jdbc**, **Spring Data JPA**, **jOOQ**, etc
 - Use Flyway database migrations to create **users**, **posts**, **comments** tables and insert sample data.
 
 ---
-[Home](../README.md) | [← Previous: Database Transaction Management](db-transaction-management.md) | [Next: Spring Data JPA →](spring-data-jpa.md)
+[Home](../README.md) | [← Previous: Database Transaction Management](60-db-transaction-management.md) | [Next: Spring Data JPA →](80-spring-data-jpa.md)

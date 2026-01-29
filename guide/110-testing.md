@@ -569,4 +569,4 @@ Create a comprehensive test suite for a jblogger with the following requirements
    - Include happy path and error scenarios
 
 ---
-[Home](../README.md) | [← Previous: Spring Security JWT](spring-security-jwt.md) | [Next: Docker Compose Deployment →](docker-compose-deployment.md)
+[Home](../README.md) | [← Previous: Spring Security JWT](100-spring-security-jwt.md) | [Next: Docker Compose Deployment →](120-docker-compose-deployment.md)
