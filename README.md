@@ -1,10 +1,12 @@
 # Spring Boot Self Learning Guide
 
-Spring Boot is a popular framework for building Java enterprise applications.
+[Spring Boot](https://spring.io/projects/spring-boot) is a popular framework for building Java enterprise applications.
 Spring Boot provides support for a wide range of features 
 and integrations with most of the libraries to build different types of applications.
 
 For beginners this can be overwhelming. This guide will help you get started with Spring Boot.
+
+![spring-boot-self-learning-guide.png](assets/spring-boot-self-learning-guide.png)
 
 The goal of this self-learning guide is to provide a step-by-step approach to understanding and mastering Spring Boot. 
 It covers essential concepts, best practices, and practical examples to help you build robust and scalable applications.
@@ -14,7 +16,7 @@ It covers essential concepts, best practices, and practical examples to help you
 - Knowledge of Spring (nice to have)
 - Basic knowledge of Databases and SQL
 - Basic knowledge of Maven
-- IDE (preferably IntelliJ IDEA)
+- IDE (preferably [IntelliJ IDEA](https://www.jetbrains.com/idea/))
 
 ## Table of Contents
 - [1. Introduction](guide/10-introduction.md)

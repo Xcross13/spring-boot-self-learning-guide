@@ -280,7 +280,7 @@ class BookIntegrationTest {
 ```
 
 ### Using Testcontainers for Database Testing
-Testcontainers help us to spin up application dependencies (such as databases, message brokers, and more) 
+[Testcontainers](https://testcontainers.com/) help us to spin up application dependencies (such as databases, message brokers, and more) 
 as docker containers in a controlled environment during tests. 
 This is particularly useful for integration testing where the application needs to interact with external services.
 
